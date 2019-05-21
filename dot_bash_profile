@@ -27,7 +27,7 @@
 #   export PS1="\h:\w \$ "
 
 export HISTCONTROL=erasedups:ignorespace
-# export PROMPT_COMMAND='history -a; history -r'
+## export PROMPT_COMMAND='history -a; history -r'
 export EDITOR=vim
 
 #   ------------------------------------------------------------
