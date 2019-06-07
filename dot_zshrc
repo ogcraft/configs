@@ -100,5 +100,9 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-[ -e $HOME/.og-aliases ] && source $HOME/.og-aliases
+DISABLE_AUTO_TITLE="true"
+
+[ -e $HOME/.og_aliases ] && source $HOME/.og_aliases
+
+title `pwd`
 
