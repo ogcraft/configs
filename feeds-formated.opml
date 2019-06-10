@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+  <head>
+    <title>Slick RSS OPML Export</title>
+  </head>
+  <body>
+    <outline type="rss" text="developer.apple.com/news/releases" xmlUrl="http://developer.apple.com/news/releases/rss/releases.rss"/>
+    <outline type="rss" text="Компьюлента" xmlUrl="http://feeds.feedburner.com/ct_news/"/>
+    <outline type="rss" text="Planet Erlang" xmlUrl="http://www.planeterlang.org/en/planet/rss_2.0"/>
+    <outline type="rss" text="reddit.com/r/algotrading" xmlUrl="https://www.reddit.com/r/algotrading.rss"/>
+    <outline type="rss" text="reddit.com/r/Buddhism" xmlUrl="https://www.reddit.com/r/Buddhism.rss"/>
+    <outline type="rss" text="reddit.com/r/Poker" xmlUrl="https://www.reddit.com/r/poker.rss"/>
+    <outline type="rss" text="komp-online-il" xmlUrl="http://community.livejournal.com/komp-online-il/data/atom"/>
+    <outline type="rss" text="rusisrael" xmlUrl="http://community.livejournal.com/rusisrael/data/atom"/>
+    <outline type="rss" text="plakhov:" xmlUrl="http://plakhov.livejournal.com/data/atom"/>
+    <outline type="rss" text="otters.io (Swift)" xmlUrl="https://otters.io/feed.rss"/>
+    <outline type="rss" text="mikeash NSBlog" xmlUrl="https://www.mikeash.com/pyblog/rss.py"/>
+    <outline type="rss" text="Android Developers Blog" xmlUrl="http://android-developers.blogspot.com/feeds/posts/default"/>
+    <outline type="rss" text="Android Discuss Google Group" xmlUrl="http://groups.google.com/group/android-discuss/feed/rss_v2_0_msgs.xml"/>
+    <outline type="rss" text="Android Linux Kernel Development Google Group" xmlUrl="http://groups.google.com/group/android-kernel/feed/atom_v1_0_msgs.xml?num=50"/>
+    <outline type="rss" text="Carl's REBOL Blog - Vive la REBOLution" xmlUrl="http://www.rebol.com/article/carl-rss.xml"/>
+    <outline type="rss" text="Nimrod forum" xmlUrl="http://forum.nim-lang.org/threadActivity.xml"/>
+    <outline type="rss" text="golang-nuts Google Group" xmlUrl="http://groups.google.com/group/golang-nuts/feed/atom_v1_0_msgs.xml"/>
+    <outline type="rss" text="Google Open Source Blog" xmlUrl="http://google-opensource.blogspot.com/atom.xml"/>
+    <outline type="rss" text="InformIT :: Articles &gt; Programming" xmlUrl="http://www.informit.com/articles/index_rss.aspx?n=6f0a3c34-9ac5-4754-928a-4e534538d0af"/>
+    <outline type="rss" text="reddit.com/r/security" xmlUrl="http://www.reddit.com/r/security.rss"/>
+    <outline type="rss" text="thenewstack.io" xmlUrl="http://thenewstack.io/blog/feed/"/>
+    <outline type="rss" text="DevOps Дефлопе" xmlUrl="http://feeds.feedburner.com/devopsdeflope"/>
+    <outline type="rss" text="Inside 245s" xmlUrl="http://feeds.feedburner.com/ezyang"/>
+    <outline type="rss" text="Bartosz Milewski's Programming Cafe" xmlUrl="http://bartoszmilewski.com/feed/"/>
+    <outline type="rss" text="Lambda the Ultimate" xmlUrl="http://lambda-the-ultimate.org/rss.xml"/>
+    <outline type="rss" text="russian lambda planet" xmlUrl="http://feeds.feedburner.com/fp-planet-ru"/>
+    <outline type="rss" text="Planet Factor" xmlUrl="http://planet.factorcode.org/feed.xml"/>
+    <outline type="rss" text="Planet Haskell" xmlUrl="http://planet.haskell.org/rss20.xml"/>
+    <outline type="rss" text="ruhaskell.org" xmlUrl="http://ruhaskell.org/feed.xml"/>
+    <outline type="rss" text="Записки программиста" xmlUrl="http://eax.me/feed/"/>
+    <outline type="rss" text="Planet Lisp" xmlUrl="http://planet.lisp.org/rss20.xml"/>
+    <outline type="rss" text="Der Flounder blog" xmlUrl="https://derflounder.wordpress.com/feed/"/>
+    <outline type="rss" text="Daniel Higginbotham's blog" xmlUrl="http://feeds.feedburner.com/FlyingMachineStudios"/>
+    <outline type="rss" text="reddit.com/r/ATS" xmlUrl="http://www.reddit.com/r/ats.rss"/>
+    <outline type="rss" text="reddit.com/r/Clojure" xmlUrl="http://www.reddit.com/r/Clojure.rss"/>
+    <outline type="rss" text="reddit.com/r/Scala" xmlUrl="http://www.reddit.com/r/Scala.rss"/>
+    <outline type="rss" text="reddit.com/r/rust" xmlUrl="http://www.reddit.com/r/rust.rss"/>
+    <outline type="rss" text="reddit.com/r/Haskell" xmlUrl="http://www.reddit.com/r/Haskell.rss"/>
+    <outline type="rss" text="reddit.com/r/elm" xmlUrl="http://www.reddit.com/r/elm.rss"/>
+    <outline type="rss" text="reddit.com/r/swift" xmlUrl="http://www.reddit.com/r/swift.rss"/>
+    <outline type="rss" text="reddit.com/r/macprogramming/" xmlUrl="https://www.reddit.com/r/macprogramming.rss"/>
+    <outline type="rss" text="reddit.com/r/jamf" xmlUrl="https://www.reddit.com/r/jamf.rss"/>
+    <outline type="rss" text="reddit.com/r/Kotlin" xmlUrl="http://www.reddit.com/r/Kotlin.rss"/>
+    <outline type="rss" text="Red Programming Language Google Group" xmlUrl="http://groups.google.com/group/red-lang/feed/rss_v2_0_msgs.xml"/>
+    <outline type="rss" text="ru_declarative" xmlUrl="http://community.livejournal.com/ru_declarative/data/atom"/>
+    <outline type="rss" text="Steve Hanov's Programming Blog" xmlUrl="http://stevehanov.ca/blog/index.php?atom"/>
+    <outline type="rss" text="The Go Programming Language" xmlUrl="http://www.golang.me/feed/"/>
+    <outline type="rss" text="The Go Programming Language Blog" xmlUrl="http://blog.golang.org/feeds/posts/default"/>
+    <outline type="rss" text="The Rebol Week" xmlUrl="http://rebolweek.blogspot.com/feeds/posts/default"/>
+    <outline type="rss" text="This Week in Rust" xmlUrl="http://blog.octayn.net/atom.xml"/>
+    <outline type="rss" text="Лямбда - функциональное программирование" xmlUrl="http://community.livejournal.com/ru_lambda/data/atom"/>
+    <outline type="rss" text="Маниакальный Веблог" xmlUrl="http://softwaremaniacs.org/blog/feed/"/>
+    <outline type="rss" text="Gadget Lab" xmlUrl="http://www.wired.com/gadgetlab/feed/"/>
+    <outline type="rss" text="Hacker News" xmlUrl="http://news.ycombinator.com/rss"/>
+    <outline type="rss" text="yegor256.com" xmlUrl="http://www.yegor256.com/rss"/>
+    <outline type="rss" text="Linux.org.ru: Новости" xmlUrl="http://feeds.feedburner.com/org/LOR"/>
+    <outline type="rss" text="O'Reilly Radar" xmlUrl="http://feeds.feedburner.com/oreilly/radar/atom"/>
+    <outline type="rss" text="OSNews" xmlUrl="http://www.osnews.com/files/recent.rdf"/>
+    <outline type="rss" text="Technology Review Feed - arXiv blog" xmlUrl="http://www.technologyreview.com/rss/BlogRSS.aspx?rssid=634159025615156250&amp;id=357"/>
+    <outline type="rss" text="Mac OSX Hints" xmlUrl="http://feeds.macosxhints.com/macosxhints/recent"/>
+    <outline type="rss" text="pirate-radio-t" xmlUrl="http://feeds.feedburner.com/pirate-radio-t"/>
+    <outline type="rss" text="Математика, которая мне нравится" xmlUrl="http://hijos.ru/feed/"/>
+    <outline type="rss" text="Привычка не думать" xmlUrl="http://feeds2.feedburner.com/my-tribune"/>
+    <outline type="rss" text="Open Culture" xmlUrl="http://feeds.feedburner.com/OpenCulture"/>
+    <outline type="rss" text="PhysOrg.com - latest science and technology news stories" xmlUrl="http://www.physorg.com/rss-feed/"/>
+    <outline type="rss" text="RSS-лента для modcos.com" xmlUrl="http://modcos.com/rss.php"/>
+    <outline type="rss" text="ScienceDaily: Latest Science News" xmlUrl="http://www.sciencedaily.com/newsfeed.xml"/>
+    <outline type="rss" text="Израильский Потребитель" xmlUrl="http://community.livejournal.com/potrebitel_il/data/atom"/>
+    <outline type="rss" text="Толкователь" xmlUrl="http://feeds.feedburner.com/ttolk/coqy"/>
+    <outline type="rss" text="Эхо Москвы // Передачи // Все так // Звук" xmlUrl="http://echo.msk.ru/programs/vsetak/rss-audio.xml"/>
+  </body>
+</opml>
